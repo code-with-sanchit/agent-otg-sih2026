@@ -219,16 +219,7 @@ pytest
 - [ ] Linux and macOS start scripts
 - [ ] TODO: add your real plans
 
-## 13. Team
 
-| Name | Role |
-|------|------|
-| Sanchit Goyal | TODO: your role |
-| TODO | TODO |
-
-## 14. License
-
-TODO: choose one (MIT is common for hackathon projects).
 
 ## 15. Acknowledgements
 
