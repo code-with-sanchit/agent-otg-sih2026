@@ -221,7 +221,7 @@ pytest
 
 
 
-## 15. Acknowledgements
+## 13. Acknowledgements
 
 - Smart India Hackathon 2026
 - MRPL (problem statement provider)
